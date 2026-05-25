@@ -137,3 +137,7 @@ I arbitrated. It is the same consensus-then-verify pattern that runs the Sentine
 this came out of. The method is not decoration. When the three of us disagreed over
 whether a 3090 and a 2080 pool into one memory space (they do not, there is no NVLink),
 that disagreement is what caught and fixed the error before it shipped.
+
+## Writeups
+
+- [Fine-tuning a 14B on legal and medical benchmarks for about a dollar each](writeups/finetuning-14b-legal-medical.md)
